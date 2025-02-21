@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jeff!</h1>
+<h2 align="center">Hello! I'm Jeff, welcome to my Github! <img src= "https://media.tenor.com/Fpm1muS9UnYAAAAi/emoji-waving-happy-emoji.gif" width="50px"> </h2>
 
 <div align="center">
-    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=jeffdev17&cc=141322&tc=FE428E&ic=fff&bc=0000">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev17&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=radical"/>
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=jeffdev17&cc=0D1117&tc=58A6FF&ic=F8F8F2&bc=0000"></br>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdev17&" alt="jeffdev17" />
 </div>
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffdev17&show_icons=true&locale=en" alt="jeffdev17" /></p>
+## 🙋‍♂️ **About me** 
+* I'm 29 years old;
+* Currently studying Systems Development at Faculdade Anhanguera de Indaiatuba (FAI);
+* AI specialist to be; 
+* Mostly into Automation and Artificial Intelligence;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdev17&" alt="jeffdev17" /></p>
-
-<h3 align="left">📍 Indaiatuba, SP, Brazil </br>💻 Software Engineering at FAI • Automation and AI </br>👾 Gamer </br>🐱 Cat owner </br>🍣 Sushi Lover</h3>
-
-<h3 align="left">🛠️ Technologies & Tools:</h3>
+## 🛠️ **My skills:**
 
 <details>
   <summary><b>🚀 Programming Languages</b></summary>
