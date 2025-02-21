@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeff!</h1>
+
+<div align="center">
+    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=jeffdev17&cc=141322&tc=FE428E&ic=fff&bc=0000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev17&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=radical"/>
+</div>
+
+
 <h3 align="center">📍 Indaiatuba, SP, Brazil 💻 Software Engineering at FAI • Automation and AI 👾 Gamer 🐱 Cat owner 🍣 Sushi Lover</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffdev17" alt="jeffdev17" /></a> </p>
 
 - 🔭 I’m currently working on [my_student_manager](https://github.com/JeffDev17/my_student_manager)
 
