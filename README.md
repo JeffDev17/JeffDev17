@@ -5,16 +5,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffdev17&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffdev17&show_icons=true&locale=en" alt="jeffdev17" /></p>
 
-<h3 align="center">📍 Indaiatuba, SP, Brazil </br>💻 Software Engineering at FAI • Automation and AI </br>👾 Gamer </br>🐱 Cat owner </br>🍣 Sushi Lover</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdev17&" alt="jeffdev17" /></p>
 
-
-- 🔭 I’m currently working on [my_student_manager](https://github.com/JeffDev17/my_student_manager)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jefferson-a-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefferson-a-dev" height="30" width="40" /></a>
-</p>
+<h3 align="left">📍 Indaiatuba, SP, Brazil </br>💻 Software Engineering at FAI • Automation and AI </br>👾 Gamer </br>🐱 Cat owner </br>🍣 Sushi Lover</h3>
 
 <h3 align="left">🛠️ Technologies & Tools:</h3>
 
@@ -93,6 +88,10 @@
   </p>
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffdev17&show_icons=true&locale=en" alt="jeffdev17" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jefferson-a-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefferson-a-dev" height="30" width="40" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdev17&" alt="jeffdev17" /></p>
+
+
