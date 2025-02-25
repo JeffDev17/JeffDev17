@@ -1,7 +1,7 @@
 <h2 align="center">Hello! I'm Jeff, welcome to my Github! <img src= "https://media.tenor.com/Fpm1muS9UnYAAAAi/emoji-waving-happy-emoji.gif" width="50px"> </h2>
 <div align="center">
     <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=jeffdev17&cc=0D1117&tc=58A6FF&ic=F8F8F2&bc=0000"></br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffdev17&" alt="jeffdev17" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jeffdev17&theme=highcontrast&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 </br>
 
