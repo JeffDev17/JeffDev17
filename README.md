@@ -6,8 +6,9 @@
 
 
 ## 🙋‍♂️ **About me** 
-* I'm 29 years old;
-* Currently studying Systems Development at Faculdade Anhanguera de Indaiatuba (FAI);
+* I'm 30 years old;
+* Graduated in Systems Development;
+* Currently studying Machine Learning Engineering at FIAP;
 * AI specialist to be; 
 * Mostly into Automation and Artificial Intelligence;
 
