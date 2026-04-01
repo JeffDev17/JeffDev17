@@ -8,7 +8,7 @@
 ## 🙋‍♂️ **About me** 
 * I'm 30 years old;
 * Graduated in Systems Development;
-* Currently studying Machine Learning Engineering at FIAP;
+* Currently studying 'AI for Businesses' at FIAP;
 * AI specialist to be; 
 * Mostly into Automation and Artificial Intelligence;
 
